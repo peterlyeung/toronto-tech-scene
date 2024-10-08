@@ -179,7 +179,7 @@ Jump to section:
 |[TrustArc](https://www.trustarc.com/)|Privacy and Compliance Software Solutions|San Francisco, CA|[TrustArc careers](https://www.trustarc.com/careers/)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[Uber](https://www.uber.com/ca/en/)|ride-sharing, food delivery, self-driving cars|San Francisco, CA|[Uber Careers](https://www.uber.com/ca/en/careers/list/?department=Engineering&location=CAN-Ontario-Toronto)
-|[Veeva](https://careers.veeva.com)|Business solutions for Life Sciences|Pleasanton, CA|[Veeva careers](https://careers.veeva.com)|
+|[Veeva](https://www.veeva.com)|Business solutions for Life Sciences|Pleasanton, CA|[Veeva careers](https://careers.veeva.com)|
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical careers](https://www.visioncritical.com/careers/)|
 |[VTS](https://www.vts.com/)|Leasing and Asset Management Platform|New York, NY|[VTS careers](https://www.vts.com/careers)|
